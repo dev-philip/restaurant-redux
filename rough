@@ -1,0 +1,4 @@
+//cmd script I used for thhis project
+npx create-react-app restaurant-redux --template typescript
+npm install react-redux @reduxjs/toolkit
+npm install uuid @types/uuid
